@@ -3,8 +3,7 @@
 // @version      1.0
 // @description  Script for automatically widening Okta's Admin console
 // @author       plinde
-// @match        https://elasticgov-admin.okta.com/*
-// @match        https://elastic-admin.okta.com/*
+// @match        https://*-admin.okta.com/*
 // @grant        none
 // @homepageURL https://github.com/plinde/wide-okta-admin
 // ==/UserScript==
